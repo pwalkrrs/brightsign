@@ -1,1 +1,8 @@
-
+type,name,url,cacheEnabled,duration,trigger
+photo,Welcome_Image,https://cdn.example.com/images/welcome.png,true,15,
+photo,Seasonal_Promo,https://cdn.example.com/images/seasonal_banner.jpg,true,20,
+video,Intro_Loop,https://cdn.example.com/videos/intro_loop.mp4,true,,
+video,Feature_Loop,https://cdn.example.com/videos/feature_loop.m4v,true,,
+video,Promo_A,https://cdn.example.com/videos/promo_A.avi,true,30,PROMO_A
+video,Promo_B,https://cdn.example.com/videos/promo_B.mov,true,25,PROMO_B
+photo,Event_Banner,https://cdn.example.com/images/event_banner.jpg,true,20,EVENT_START
