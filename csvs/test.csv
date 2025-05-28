@@ -1,8 +1,6 @@
 type,name,url,cacheEnabled,duration,trigger
-photo,Welcome_Image,https://cdn.example.com/images/welcome.png,true,15,
-photo,Seasonal_Promo,https://cdn.example.com/images/seasonal_banner.jpg,true,20,
-video,Intro_Loop,https://cdn.example.com/videos/intro_loop.mp4,true,,
-video,Feature_Loop,https://cdn.example.com/videos/feature_loop.m4v,true,,
-video,Promo_A,https://cdn.example.com/videos/promo_A.avi,true,30,PROMO_A
-video,Promo_B,https://cdn.example.com/videos/promo_B.mov,true,25,PROMO_B
-photo,Event_Banner,https://cdn.example.com/images/event_banner.jpg,true,20,EVENT_START
+photo,WelcomeVIP_Slide,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/WelcomeVIP.jpg,TRUE,5,
+video,Cumulus,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/Gel%20Cumulus%2027_no_audio.mp4,TRUE,5,
+video,Summer_2025,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/Summer%202025%20Campaign_no_audio.mp4,TRUE,5,
+video,WelcomeVIP,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/nil_vip_4k.mp4,TRUE,6,WelcomeVIP
+photo,AHA,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/aha.jpg,TRUE,5,AHA
