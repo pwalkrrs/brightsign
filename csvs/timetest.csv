@@ -1,8 +1,8 @@
 type,name,url,duration,trigger,start_date,end_date,start_time,end_time
-photo,Always-On Welcome,https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/WelcomeVIP.jpg,7,,,,,
-video,Summer Campaign (Active Now),https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/Summer%202025%20Campaign_no_audio.mp4,,,2025-06-10,2025-06-20,,
-photo,Sale Starts Tomorrow,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/052725_6_GlobalRunDay.jpg,5,,2025-06-12,,,
-photo,Limited Time Offer (Ends June 15),https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/122425prodimage3.jpg,5,,,2025-06-15,,
+photo,Always-On Welcome,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/042825_1.jpg,7,,,,,
+video,Summer Campaign (Active Now),https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/122425prodimage3.jpg,,,2025-06-10,2025-06-20,,
+photo,Sale Starts Tomorrow,https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/060225_2_Kayano32.jpg,5,,2025-06-12,,,
+photo,Limited Time Offer (Ends June 15),https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/042825_4.jpg,5,,,2025-06-15,,
 photo,Good Morning (Daily 9am-12pm),https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/052225_6_Altra-COOP.jpg,5,,,,14:05:00,16:30
-video,Late Night Special (Daily 10pm-2am),https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/Gel%20Cumulus%2027_no_audio.mp4,,,,,13:35,14:05
+video,Late Night Special (Daily 10pm-2am),https://raw.githubusercontent.com/pwalkrrs/rrsatv/main/retail/retail_baseline/063025_Independence-Day.jpg,,,,,13:35,14:05
 video,Weekend Flash Sale (Trigger Only),https://raw.githubusercontent.com/pwalkrrs/brightsign/main/assets/nil_vip_4k.mp4,12,WEEKEND_SALE,2025-06-13,2025-06-15,,
